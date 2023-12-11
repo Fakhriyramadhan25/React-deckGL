@@ -12,3 +12,7 @@ It imply that there are more stations in the area compare to other area.
 1. Simply, make a fork or download the zip
 2. "npm init"
 3. "npm run dev"
+
+### visualization
+
+![Plotting Maps](/public//deckgl.png)
